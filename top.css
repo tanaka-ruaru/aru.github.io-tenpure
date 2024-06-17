@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+}
+
+li {
+    list-style: none;
+
+}
+
+.hedar {
+    height: 100px;
+    background-color: rgb(205, 243, 243);
+
+}
+
+.hedar-logo {
+    font-size: 40px;
+    padding-top: 20px;
+    padding-left: 50px;
+    float: left;
+
+}
+
+.hedar-rist {
+    float: right;
+    font-size: 20px;
+}
+
+.hedar-rist li {
+    float: left;
+    padding-top: 20px;
+    padding-right: 40px;
+}
+
+.massage {
+    height: 400px;
+}
+
+.massage h1 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 70px;
+}
+
+.footer {
+    height: 170px;
+    background-color: rgb(205, 243, 243);
+}
+
+.footer-rist li {
+    font-size: 20px;
+    padding-top: 20px;
+    padding-right: 40px;
+}
+
+.contact {
+    height: 500px;
+    padding-left: 50px;
+}
+
+.contact h1 {
+    font-size: 20px;
+}
+
+.contact p {
+    font-size: 20px;
+}
