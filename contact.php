@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
-<div charset="utf-8">
+<head>
+    <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="top.css">
-</div>
+    <title>お問い合わせありがとうございます</title>
+</head>
 <div class="contact">
     <div class="thanks-message">お問い合わせいただきありがとうございます。<br>下記の内容で送信されました。</div>
     <div contact-list>名前</div>
