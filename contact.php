@@ -16,7 +16,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     echo "Method Not Allowed";
     exit;
 }
-?>
+
 <div class="contact">
     <div class="thanks-message">お問い合わせいただきありがとうございます。<br>下記の内容で送信されました。</div>
     <div contact-list>名前</div>
@@ -26,3 +26,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <div contact-list>内容</div>
     <?php echo $_POST["body"]; ?>
 </div>
+?>
